@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27" />
+        <entry key="app/src/main/res/drawable/ic_cfooed01.xml" value="0.25277777777777777" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.27" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/drawable/ic_spend_tracker.xml" value="0.25277777777777777" />
+        <entry key="app/src/main/res/drawable/ic_spend_tracker_4.xml" value="0.25277777777777777" />
+        <entry key="app/src/main/res/drawable/spendify.xml" value="0.25277777777777777" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.165" />
-        <entry key="app/src/main/res/layout/add_edit.xml" value="0.375" />
-        <entry key="app/src/main/res/layout/set_budget.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/add_edit.xml" value="0.15925925925925927" />
+        <entry key="app/src/main/res/layout/set_budget.xml" value="0.165" />
         <entry key="app/src/main/res/layout/view_budget.xml" value="0.25" />
       </map>
     </option>
